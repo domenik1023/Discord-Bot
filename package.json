@@ -1,0 +1,24 @@
+{
+  "name": "discord-bot",
+  "version": "0.1.0",
+  "description": "This is a Discord-Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "domenik1023",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domenik1023/discord-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/domenik1023/discord-bot/issues"
+  },
+  "homepage": "https://github.com/domenik1023/discord-bot#readme"
+}
